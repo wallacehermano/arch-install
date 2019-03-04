@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### INSTALANDO XFCE4 ###
+### INSTALANDO GNOME ###
 
 __A=$(echo -e "\e[34;1m");__O=$(echo -e "\e[m");_g="\e[32;1m";_o="\e[m";
 
